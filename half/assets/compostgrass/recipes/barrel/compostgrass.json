@@ -1,6 +1,6 @@
 	{
 		"code": "compost",
-		"sealHours": 480,
+		"sealHours": 240,
 		"ingredients": [
 				{ 
 					"type": "item", 

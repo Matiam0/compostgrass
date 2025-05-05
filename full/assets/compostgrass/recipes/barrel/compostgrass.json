@@ -1,0 +1,16 @@
+	{
+		"code": "compost",
+		"sealHours": 480,
+		"ingredients": [
+				{ 
+					"type": "item", 
+					"code": "game:drygrass", 
+					"quantity": 64 
+				}
+			],
+		"output": { 
+			"type": "item", 
+			"code": "game:compost", 
+			"stackSize": 16
+		}
+	}
